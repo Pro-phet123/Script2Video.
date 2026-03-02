@@ -1,0 +1,7 @@
+{
+  "name": "Script2Video: Faceless Channel Creator",
+  "description": "Convert your YouTube scripts into engaging videos with AI-generated visuals and voiceovers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
